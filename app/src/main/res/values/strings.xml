@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DinnerDecider</string>
+    <string name="hello_world_as">Hello World</string>
+    <string name="hello_world">Hello World</string>
+</resources>
