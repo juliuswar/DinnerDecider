@@ -51,5 +51,13 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" android:contentDescription="TODO"
             android:background="#5a7e8c" android:layout_marginTop="536dp" app:layout_constraintHorizontal_bias="0.0"/>
+    <Button
+            android:text="Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:contentDescription="TODO"
+            android:id="@+id/button" android:layout_marginTop="304dp" app:layout_constraintHorizontal_bias="0.498"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
