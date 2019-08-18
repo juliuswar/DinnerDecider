@@ -58,6 +58,6 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" android:contentDescription="TODO"
-            android:id="@+id/button" android:layout_marginTop="304dp" app:layout_constraintHorizontal_bias="0.498"/>
+            android:id="@+id/button" android:layout_marginTop="296dp" app:layout_constraintHorizontal_bias="0.498"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
